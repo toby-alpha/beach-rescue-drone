@@ -35,7 +35,6 @@ The current solution also allows for shark detection.
 **Design and Produce:**
 - A mid sized drone (5-7"), based off the FPV framework.
 	- The drone is capable of autonomous flight, to a pre-specified location, when directed.
-
 - A solution to allow for the aerial drop of a commercially available inflatable floatation system
 - A solution to allow the drone to be weather-proof and protected when not in flight.
 
@@ -47,3 +46,133 @@ The current solution also allows for shark detection.
 
 ### Time Spent - 2 Hours (27/05/25)
 
+---
+
+## Design - Start of the Dock
+At beaches, conditions can become unpredictable, thus it is important to ensure that the drone will be able to be stored and protected during all weather conditions, especially where in rural areas in which regular interval maintenance is not feasible. However, this does not mean/make it realistic that this solution would be able to deploy in extreme weather conditions.
+
+![Naughty little girl threatens our summer fun | The Australian](https://content.api.news/v3/images/bin/0173e5e3decd0f2806f2c0284e900b15)
+*Extreme weather on Australian Beaches*
+
+---
+Thus, I think it'll be crucial to have a dock/station where the drone is able to rest, ready to deploy when needed.
+
+**Requirements:**
+- Weatherproof
+- Facilitate accurate landing
+- Cheap!
+	- This drone has the ambition of being deployed in mass, thus price is an important factor.
+
+**With this, some possible implementations:**
+- Weatherproof
+	- Closing lid
+	- Storage drawer
+- Facilitate accurate landing
+	- Feedback to the drone
+	- Use of AprilTags to help drone determine position
+
+---
+### What's Already on the Market
+
+Something I firmly believe in is the analysis of existing products and solutions. This can often be overlooked.
+
+Chances be it, most ideas have probably been explored and conceptualised in some form, thus having a good understanding of what has been done allows for an extra layer of innovation, in order to make a meaningful impact on the target market and consumers of the product.
+
+---
+**DJI Dock 1**
+![DJI Dock in Australia - FlytBase](https://cdn.prod.website-files.com/6336f32fe0e46462713ad519/635a291060cca8396a6ee14e_DJI-Dock1.png)
+
+> DJI's first generation of drone dock for autonomous deployment.
+
+**✅ Advantages**
+- Rugged and durable
+- Lid swings open to provide a large landing area
+- Secure - has security and sensors
+
+**❌ Disadvantages**
+- Expensive :)
+- Landing accuracy relies on sensors in drone
+	- Not practical for my application
+- Requires an external power source to operate
+
+
+---
+ 
+**DJI Dock 2**
+![DJI DOCK 2 With DJI Matrice 3DT - Africa Drone Kings | DJI Drone](https://enterprise.africadroneking.co.za/wp-content/uploads/2024/03/DJIDock2_with_M3DT__1_-removebg-preview.png)
+
+> Yeah.. so DJI is kinda popular. 
+
+
+**✅ Advantages**
+- Passive entering mechanism relies alot less on drone sensors to get it in
+	- This is really cool
+- Lid swings open using (by the looks of it) linear actuators, providing a simple, yet robust way of maximising the landing area, while using a very simple pivot mechanism.
+**❌ Disadvantages**
+- Expensive :)
+- Landing accuracy relies on the drone - DJI has some pretty cool tech that allows this
+	- Once again not feasible for my purposes.
+- Requires an external power source to operate
+
+
+---
+**Energy Robotics Drone-in-a-box**
+![Image-Remove-Background](https://i.ibb.co/XZmDXNqD/Image-Remove-Background.png)
+
+> AprilTags are pretty cool
+
+**✅ Advantages**
+- The April tags allow for very precise landings without requiring complex sensors
+- Small (this is also a disadvantage)
+- Sliding drawer improves safety during rain.
+
+**❌ Disadvantages**
+- Small. Could get covered over with debris is heavy weather
+	- Landing pad size gives a big constraint.
+- Seems like a less robust solution compared to DJI
+
+---
+
+**💡 Opportunities and What Worked Well**
+- All solutions require an external power-source
+	- Solar Charging to allow remote deployment
+- The DJI passive centring is very neat, and a good solution to allow for reduced landing accuracy
+- AprilTags seem like a good way to help the drone locate itself relative to the station.
+- I think the fold out design appeal more at the moment, especially considering the terrain of the beach.
+
+---
+**Block CAD!!!**
+Another thing which I see as really important is the use of Block CAD to help gain sense of key mechanism parts, and it really helps to plan a design solution. 
+
+The goal here is to keep everything **as simple as possible**.
+
+**Initial Concept - Heavily DJI Dock 2 Based**
+
+I thought that the DJI Dock 2 provided a very succinct solution to the problem, and the concepts could provide very successful for my project.
+
+![image](https://i.ibb.co/cKyrgfc8/image.png)
+
+The folding doors allow for a clear open space for the drone to take up out of, while then being able to fold in for a compact and succinct solution.
+
+Additionally, the elevation of it allows for the potentially harsh conditions, and prevents it from getting covered and unable to open by sand or debris.
+
+![image](https://i.ibb.co/Fq8QnzsF/image.png)
+
+One thing I noticed from the DJI dock was how the indexing funnel was only on one side, and thus looked at implementing it I decided to experiment a bit with adding another flange on the other side. This would mean that there would be quite a large allowable margin for error when designing the landing system. This is a good thing!! It needs to work 100% of the time.
+
+![image](https://i.ibb.co/pvZ1bZCz/image.png)
+
+I feel like this concept has the ability to be pretty successful, and tomorrow I will look at trying something completely new involving sliding doors, just to get a sense of options.
+
+I'm however cautious to design too much of the dock before the drone, as priorities will likely shift as the design of the drone (centre piece) evolves. It made sense to lay some groundwork for the dock first though.
+
+**A final thought:**
+Manufacturing.. oh yeah, this probably shouldn't be a final thought. Is anything on Day 2 a final thought though.. :)
+I think it makes sense to try and utilise 3D printing as much as possible for this design, seeing as I'm aiming to keep the costs low for a small-quantity prototype. Industrial manufacturing process such as injection moulding don't make sense at small scale. 
+
+Something interesting could be a aluminium frame on the inside to help with rigidity, this could be explored at a later time, once the design is more defined.
+
+
+### Time Spent - 2 Hours (38/05/25)
+
+---
