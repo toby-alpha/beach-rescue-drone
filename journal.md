@@ -108,6 +108,7 @@ Chances be it, most ideas have probably been explored and conceptualised in some
 - Passive entering mechanism relies alot less on drone sensors to get it in
 	- This is really cool
 - Lid swings open using (by the looks of it) linear actuators, providing a simple, yet robust way of maximising the landing area, while using a very simple pivot mechanism.
+
 **❌ Disadvantages**
 - Expensive :)
 - Landing accuracy relies on the drone - DJI has some pretty cool tech that allows this
