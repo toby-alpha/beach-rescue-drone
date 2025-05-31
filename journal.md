@@ -108,7 +108,6 @@ Chances be it, most ideas have probably been explored and conceptualised in some
 - Passive entering mechanism relies alot less on drone sensors to get it in
 	- This is really cool
 - Lid swings open using (by the looks of it) linear actuators, providing a simple, yet robust way of maximising the landing area, while using a very simple pivot mechanism.
-
 **❌ Disadvantages**
 - Expensive :)
 - Landing accuracy relies on the drone - DJI has some pretty cool tech that allows this
@@ -174,6 +173,32 @@ I think it makes sense to try and utilise 3D printing as much as possible for th
 Something interesting could be a aluminium frame on the inside to help with rigidity, this could be explored at a later time, once the design is more defined.
 
 
-### Time Spent - 2 Hours (38/05/25)
+### Time Spent - 2 Hours (28/05/25)
 
 ---
+
+## Day 2 - Further Dock Iterations 
+
+The main goal for the dock mechanism is to be able to fold out in order to allow the drone to both take off, and land in a safe and accurate way, while also shielding it from the elements when not in use.
+
+I identified another method of shutting the doors at the top, and rather than pivoting, have them side out of the way, like an opening hangar.
+
+![image](https://i.ibb.co/MDkbQdtN/image.png)
+
+To accomplish this, I first took the base from the previous design, but the first thing I had to alter was the sides.
+
+Seeing as the doors would be sliding out of the way, it would have to be fully enclosed from all sides. To do this, I raised all sides upto the same level.
+
+![image](https://i.ibb.co/G3nTD291/image.png)
+
+![image](https://i.ibb.co/Vp9GyZqJ/image.png)
+
+I came up with something like this, using similar shaped doors as the previous model, but having them slide out of the way. Unfortunately, I don't think this option has much practical validity.
+
+![image](https://i.ibb.co/fz8tyb8X/image.png)
+
+The doors could become quite heavy, which will come with the challenge of.. gravity. As the doors slide further out, the more force will be exerted on the mechanism that is holding it in place, to solve this, more overlap would be needed, yet this will reduce the amount of space the drone has to land in. I don't view this as an acceptable solution to the problem, harming the rigidity of the system.
+
+Overall, I will not be pursing the sliding door archetype further, and will possibly look into some other solutions later down the track. Time to start the drone now!
+
+### Time Spent - 2 Hours (30/05/25)
