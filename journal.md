@@ -202,3 +202,49 @@ The doors could become quite heavy, which will come with the challenge of.. grav
 Overall, I will not be pursing the sliding door archetype further, and will possibly look into some other solutions later down the track. Time to start the drone now!
 
 ### Time Spent - 2 Hours (30/05/25)
+
+## Day 3 - Starting the Drone
+
+I'll be designing a roughly 7" prop size drone, prioritising stability for autonomous flight operations.
+
+![image](https://i.ibb.co/3yCdDhPR/image.png)
+
+I started off with a rough sketch of the dimensions, opting for a stretched X type configuration, to improve the speeds when travelling forward. This will be important when deploying for a rescue.
+
+I currently have 2207 motors already, which have a 16mm mounting pattern, compared to the a more optimal motor for a 7" quad like the 2807, with a 19mm mounting pattern.
+
+![image](https://i.ibb.co/VWqHyQv5/image.png)
+
+The arms will be manufactured from a 6mm carbon fibre sheet. I made the inner part thinner in order to reduce the thickness where not need around the motor mounts. The increased thickness is to prevent bending around the areas under a high load, and long lever. I'll run FEA analysis later to determine if more needs to be done to support this.
+
+![image](https://i.ibb.co/WNzMZGx3/image.png)
+
+![image](https://i.ibb.co/wHwH3kH/image.png)
+
+I'll also be using a coaxial 2207 setup. This gives a roughly 20% drop in efficiency, yet adds redundance, as if one of the motors breaks or stops during operation, the drone can keep flying. This is important for the high-stakes operating conditions that it'll be operating in. Currently, I have both motors stacked vertically ontop of each other, and am planning on doing a drilling one out to do a bolt through and tap into the other, yet I think this is likey to change.
+
+![image](https://i.ibb.co/wZbNc6V5/image.png)
+
+This is a rough CAD mockup of one side, with the motors and 7" propellers. 
+
+![image](https://i.ibb.co/fVnMH7Kf/image.png)
+
+In the middle, there is a cutout which will be used to attach the arm mount to the main body.
+
+![image](https://i.ibb.co/DPymtVjP/image.png)
+
+and.... 7075 Aluminium Billet!! I played around (and still am) which this geometry to get it to be how I desire. This should allow for a rigid, but also strong frame that doesn't break under impacts, while allowing for easy mounting and attachment.
+
+To allow the piece to become lighter, I'll be pocketing it once the geometry is more finalised. I'll likely have it produced at JLCCNC.
+
+![image](https://i.ibb.co/7JKq1n13/image.png)
+
+A general sketch of the drone layout, with the propellers raised, this allows for the payload to be safe from impacts from the downward facing motor. It was inspired by the DJI Inspire, but also other 8 motor Cinelifter type drones. Let's be honest, it looks pretty cool as well.
+
+![image](https://i.ibb.co/QFHtSTNV/image.png)
+
+![image](https://i.ibb.co/MkXZJD20/image.png)
+
+Something that I'm going to look into tomorrow is the pocketing of these arms, looking at the weight but also max deformation. I think the shape also needs a bit of work, the propellers seem too elevated at the moment.
+
+### Time Spent - 1.5 Hours (31/05/25)
