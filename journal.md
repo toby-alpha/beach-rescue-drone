@@ -248,3 +248,47 @@ A general sketch of the drone layout, with the propellers raised, this allows fo
 Something that I'm going to look into tomorrow is the pocketing of these arms, looking at the weight but also max deformation. I think the shape also needs a bit of work, the propellers seem too elevated at the moment.
 
 ### Time Spent - 1.5 Hours (31/05/25)
+
+## Day 4 - Arm Optimisation
+
+I started off by looking at mounting, and decided on using 4 counterbored M4 bolts per side. This offered a compromise between weight, and rigidity. The counterbore allows it to not get caught on anything.
+
+![image](https://i.ibb.co/F4BcNHqR/image.png)
+
+![image](https://i.ibb.co/0LZ1FKB/image.png)
+
+These bolts will then go into tapped holes in the main body, providing a strong and secure connection
+
+![image](https://i.ibb.co/sv9HpcNn/image.png)
+
+Now, the weight. Using 7075 over something like carbon fibre comes with many advantages in this application, but also disadvantages. One of the main ones is weight. Alot of this material in the middle isn't needed structurally, and can cut the weight in half. 
+
+Most of these pockets were just done by sight, from previous experiences I've had.
+
+![image](https://i.ibb.co/wrhw80TV/image.png)
+
+![image](https://i.ibb.co/5gW2ctSw/image.png)
+
+![image](https://i.ibb.co/FbCgkX7w/image.png)
+
+Each motor gives of roughly 2000g of force (2kg), thus, applying 20N. To calculate the strength of this part, I'm assuming all 4 motors on each side are running at 100% (80N), plus 20N extra. This results in 100N of force being applied directly at the mounting point; however, this is probably unrealistic due to any slight flex in the carbon fibre arms.
+
+Here are some of the test results.
+
+No Skin
+![image](https://i.ibb.co/cc1pVq98/image.png)
+
+1mm skin
+![image](https://i.ibb.co/84dxDBZH/image.png)
+
+2mm skin
+![image](https://i.ibb.co/gFf0XZ95/image.png)
+
+For each 1mm of skin, the deflection does down by roughly 0.1mm. I'll see how crucial this is later on in the project.
+
+On a side note.. I'm not too sure of the accuracy of the simulation, but my research indicates anything less than 0.2mm deflection is optimal, so it's looking pretty good considering all of these are done under full load.
+
+Just for fun, heres an example of the part not pocketed. Not too much of a difference which is pretty cool.
+![image](https://i.ibb.co/YBJvY1J7/image.png)
+
+### Time Spent - 2 Hours (1/06/25)
