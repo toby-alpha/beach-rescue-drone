@@ -292,3 +292,34 @@ Just for fun, heres an example of the part not pocketed. Not too much of a diffe
 ![image](https://i.ibb.co/YBJvY1J7/image.png)
 
 ### Time Spent - 2 Hours (1/06/25)
+
+## Day 5 - Bottom Plate
+
+So I did a bit of a silly one... all the FEA was only done with one side of the arm. I'll be getting some quotes from machine shops in the coming days, but this has allowed me to consider whether I really need the full 25mm thickness.
+
+![image](https://i.ibb.co/XxFn2GGH/image.png)
+
+I designed this small block to fit in the middle to allow both of the arms plates to be bolted together. This will currently be made of of 7075 billet as well, in order to ensure rigidity.
+
+![image](https://i.ibb.co/3yQMh1Q2/image.png)
+
+I then roughed up 2 plates which will serve as the main body. I don't really like how they look at the moment, and I find the shape to be a bit simple.
+
+![image](https://i.ibb.co/9k9y8rKZ/image.png)
+
+The plates were originally attached with 6 countersunk bolts each, but this is going to transition to being 4 to allow for a small bit of weight saving, while not compromising on rigidity.
+
+![image](https://i.ibb.co/zhyHRYMv/image.png)
+
+I also added the RPI Zero 2 W, this will handle on-board april-tag recognition to allow for precise landing. This footprint is quite large on the drone.
+ ![image](https://i.ibb.co/Lzk2DDk3/image.png)
+
+The stack is mounted at the back of the drone, where the battery will sit ontop of. I have to use 2 of the 4-in-1 ESCs from Speedybee to accomodate the 8 motor setup.
+
+![image](https://i.ibb.co/tM19yMrj/image.png)
+
+I also designed a riser to allow for the ESP32 telemetry module to sit on. I'll be designing the PCB for this shortly. I'm not too happy with the layout at the moment. and I think I could 100% make it more efficient.
+
+Tomorrow I'll be adding in the AprilTag camera, and maybe starting on the FPV camera as well. I had one idea to make that pivoting, but I'll see if it can be integrated into the budget, as currently it is looking very tight with the large expense of the CNC arms.
+
+### Time Spent - 3 Hours (2/06/25)
