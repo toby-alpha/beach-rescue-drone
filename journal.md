@@ -1,4 +1,6 @@
 
+
+
 # Autonomous Beach Rescue Drone
 
 ## The Idea
@@ -323,3 +325,46 @@ I also designed a riser to allow for the ESP32 telemetry module to sit on. I'll 
 Tomorrow I'll be adding in the AprilTag camera, and maybe starting on the FPV camera as well. I had one idea to make that pivoting, but I'll see if it can be integrated into the budget, as currently it is looking very tight with the large expense of the CNC arms.
 
 ### Time Spent - 3 Hours (2/06/25)
+
+## Day 6 - Further Refinements
+
+![image](https://i.ibb.co/bgdm3xVf/image.png)
+
+As I mentioned yesterday, I wasn't too pleased with the overall shape. To improve the aesthetics I added a small taper at each end, which seemed to do it for me. I think just the overall boxy shape was what was weighing it down.
+
+![image](https://i.ibb.co/fVBJWvBx/image.png)
+
+I mounted the AprilTag camera, I'll be using the OV9281-160. It's a monochrome camera, which will allow for faster processing on the Zero 2 W, and allow for a more responsive algorithm.
+
+![image](https://i.ibb.co/jk0cs4Pw/image.png)
+
+I also designed a mount for the FPV camera that the front that will be sending live video back to the operator.
+
+![image](https://i.ibb.co/qY72mh1r/image.png)
+
+I wanted it to be able to fit the VTX on the back due to size constraints, and this worked out pretty well. This will end up being 3D printed from TPU, or CF-Nylon.
+
+![image](https://i.ibb.co/fYCtBMB2/image.png)
+
+![image](https://i.ibb.co/jkLxjT1h/image.png)
+
+I originally went with a smaller camera (10AUD), but ultimately realised this looked a bit out of proportion for my use and just looked a bit weird at the front. I also didn't like the fact that the PCB was exposed. I ultimatley went with a slightly more expensive option, but allowed for a much nicer solution. I felt like spending money here would be justified, and I'd prefer not having to order the more expensive option once I worked out the smaller one didn't work.
+
+![image](https://i.ibb.co/p6x9chj8/image.png)
+
+
+![image](https://i.ibb.co/Gf6VmXCR/image.png)
+
+I also did this  case at the back that holds M4 standoffs,  for the carbon fibre plate, while also protecting all the electronics inside. I added a 3mm recess in the middle to allow for the ease of routing around the ESC, and I think this actually looks really good! This will probably be printed from CF-Nylon, and will add a nice stylistic touch on the side. 
+
+It feels like it's definelty coming together now!
+
+In other news, I've been contacting a few factories looking for machining services for the arm parts. These are very complex, and thus I'll need to outsource them. The company is doing this for a very reasonable price, with a low order quantity. These are made from 1" 7075 billet, which will definitely help with rigidity inside the drone. I would like to order 1 spare, unforchantly I don't believe I have space in the budget for this.
+
+I'll be looking soon to finalise the part with wiring considered, then get it off to them for a final quotation.
+
+![image](https://i.ibb.co/mCk6kHvL/image.png)
+
+I've also been in contact with a few for the carbon fibre as well, and there is one that looks very promising! Hopefully more on that tomorrow.
+
+### Time Spent 3 Hours (4/06/25) 
