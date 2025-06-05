@@ -368,3 +368,35 @@ I'll be looking soon to finalise the part with wiring considered, then get it of
 I've also been in contact with a few for the carbon fibre as well, and there is one that looks very promising! Hopefully more on that tomorrow.
 
 ### Time Spent 3 Hours (4/06/25) 
+
+## Day 7
+
+
+![image](https://i.ibb.co/ch98nnGJ/image.png)
+
+I started today off by integrating an XT60 connector on the back. This will allow the battery to plug in, in a rigid way. I preferred this over having a loose pigtail due to it's reliability, with no additional cost. This also allows the inside to be completely protected. Yet, a problem I identified with this is potential build up of  heat inside. I'll look into how to fix this soon.
+
+![image](https://i.ibb.co/BHzPcypJ/image.png)
+
+![image](https://i.ibb.co/PGN1vTBH/image.png)
+
+The camera has space inside for a small bit of pivot to allow for adjustments based on how I want it to look when flying. I don't really like aesthetically how it looks from the front.. but it's whatever. That can/will be changed later.
+
+![image](https://i.ibb.co/DPJKzGyL/image.png)
+
+Wow! It look pretty good at this point. Here's a list of what I have left to go:
+
+- Battery Mounting
+- Drop Mechanism
+- Antenna/GPS mounts.
+
+
+![image](https://i.ibb.co/HT6rWdXx/image.png)
+
+and.. I found a problem. I only ever planned to have the carbon fibre arms supported from the top... whoops. I added a small recess to the bottom to allow it to be clamped down. 
+
+![image](https://i.ibb.co/nsNH7br1/image.png)
+
+My budget is looking pretty sad right now. Unfortunately I'm 180USD over. I already have some parts to construct this, but apparently it wasn't enough. I'll have to look how to cut a few cots, then I'm probably going to have to support it myself the rest of the way. My suppliers have all given very competitive prices, so I'll just have to see how things go and cut where possible.
+
+### Time Spent 3 Hours (5/06/25) 
