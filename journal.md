@@ -400,3 +400,21 @@ and.. I found a problem. I only ever planned to have the carbon fibre arms suppo
 My budget is looking pretty sad right now. Unfortunately I'm 180USD over. I already have some parts to construct this, but apparently it wasn't enough. I'll have to look how to cut a few cots, then I'm probably going to have to support it myself the rest of the way. My suppliers have all given very competitive prices, so I'll just have to see how things go and cut where possible.
 
 ### Time Spent 3 Hours (5/06/25) 
+
+## Day 8 - Battery
+
+I started today off by doing **alot** of reaserch on different battery options avalible to me locally, and eventually settled on this one.
+
+![image](https://i.ibb.co/vRy9PZ3/image.png)
+
+I thought this offered a pretty good life-span, while delivering adequate power to the 8 motors. Unforchantly, it is a little bit pricy.. at 110AUD (70USD)
+
+![image](https://i.ibb.co/1gT8m9S/image.png)
+
+I designed this plate that would go on top to allow for the strap to rest underneath it, which is a pretty simple and succinct solution.
+
+Tomorrow I'm going to look into doing the PCB for the telemetry, and then doing the antenna mount for that. The FlySky transmitter that I already have has an antenna built in, so I'll just need 2 mounts. 1 for the VTX and one for the Telemetry.
+
+Just a short one for today.
+
+### Time Spent 1 Hour (8/06/25)
