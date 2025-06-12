@@ -390,7 +390,6 @@ Wow! It look pretty good at this point. Here's a list of what I have left to go:
 - Drop Mechanism
 - Antenna/GPS mounts.
 
-
 ![image](https://i.ibb.co/HT6rWdXx/image.png)
 
 and.. I found a problem. I only ever planned to have the carbon fibre arms supported from the top... whoops. I added a small recess to the bottom to allow it to be clamped down. 
@@ -403,11 +402,11 @@ My budget is looking pretty sad right now. Unfortunately I'm 180USD over. I alre
 
 ## Day 8 - Battery
 
-I started today off by doing **alot** of reaserch on different battery options avalible to me locally, and eventually settled on this one.
+I started today off by doing **alot** of reaserch on different battery options available to me locally, and eventually settled on this one.
 
 ![image](https://i.ibb.co/vRy9PZ3/image.png)
 
-I thought this offered a pretty good life-span, while delivering adequate power to the 8 motors. Unforchantly, it is a little bit pricy.. at 110AUD (70USD)
+I thought this offered a pretty good life-span, while delivering adequate power to the 8 motors. Unfortunately, it is a little bit pricy.. at 110AUD (70USD)
 
 ![image](https://i.ibb.co/1gT8m9S/image.png)
 
@@ -418,3 +417,37 @@ Tomorrow I'm going to look into doing the PCB for the telemetry, and then doing 
 Just a short one for today.
 
 ### Time Spent 1 Hour (8/06/25)
+
+## Day 9 - Telemetry Board
+
+The cost has been worrying me for a while, so I decided to review the scope. I have ultimately chosen to not pursue the Pi with Camera for landing at the moment. This will come later in development, once the drone is proven to work, and I'll assess the need with how well the GPS works. This helps shave 80AUD (52USD) off the cost, which is helpful.
+
+With that, I started work on the PCB for the telemetry. This will be pretty simple, using mounting holes and then solder pads breaking out the ESP32-C3. For the firmware, I'll be using the drone bridge firmware.
+
+![image](https://i.ibb.co/S7fhH4hv/image.png)
+
+![image](https://i.ibb.co/Nnf7Fc7X/image.png)
+
+The PCB ended up being rather simple, with was unfortunate, but it'll do the job, and be functional for my needs.
+
+### Time Spent 2 Hours (10/06/25)
+
+## Day 10 - Finishing Touches
+
+![image](https://i.ibb.co/xq7Cr6pP/image.png)
+
+I added a hole for the USB-C port to allow access to the flight controller in the middle onto the side of the protective cover.
+
+![image](https://i.ibb.co/Rp2Z22jx/image.png)
+
+I also added a top facing GPS mount at the back. It is angled 10 degrees upward to assist with connection during inherently angled flight.
+
+![image](https://i.ibb.co/G4npJFR5/image.png)
+
+A hole then feeds into the back of the drone, allowing it to be connected to the main flight controller.
+
+![image](https://i.ibb.co/cKg5nTxD/image.png)
+
+I also selected a servo and started cadding it. The main issue was finding one with a good enough drawing. Ultimatley, I did for a reasonable price, and also power. It'll fit perfectly (30mm in 30mm) inside the drone (once 2mm is filed off.. anyways). Tomorrow I'll integrate this into the billet block in the middle.
+
+### Time Spent 2 Hours (12/06/25)
