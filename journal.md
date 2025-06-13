@@ -451,3 +451,35 @@ A hole then feeds into the back of the drone, allowing it to be connected to the
 I also selected a servo and started cadding it. The main issue was finding one with a good enough drawing. Ultimatley, I did for a reasonable price, and also power. It'll fit perfectly (30mm in 30mm) inside the drone (once 2mm is filed off.. anyways). Tomorrow I'll integrate this into the billet block in the middle.
 
 ### Time Spent 2 Hours (12/06/25)
+
+## Day 11 - Drop Mechanism
+
+![image](https://i.ibb.co/y2QnN3s/image.png)
+
+The manufactured ended up finding a step file of their product, and sent it to me overnight. This was really helpful in getting an accurate snapshot of the model.
+
+![image](https://i.ibb.co/pj8xVcdS/image.png)
+
+The space which I have inside the middle block is... small at best. I think I struggled for like an hour on Aliexpress and Alibaba trying to find a compatible servo horn.. I was not successful. I'm going to just 3D print it and hope for the best, but it did help me build in the first of 3 stages for the linkage.
+
+![image](https://i.ibb.co/4xdwNw1/image.png)
+
+This one will hold a steel dowel pin, which will end up supporting the load.
+
+![image](https://i.ibb.co/0pZ96Zsn/image.png)
+
+This was Version 1 of the intermidate stage, which was later changed
+
+![image](https://i.ibb.co/PvGWwFBF/image.png)
+
+Ultimatley, they all come together to be able to provide parallel and linear motion from the rotation of the servo.
+
+![image](https://i.ibb.co/mFDyFBG4/image.png)
+
+The shaft will then be supported on 2 faces, such that it is always in contact with 1 bushing. This, as well as the vector 'funnel' in will be designed tomorrow.
+
+![image](https://i.ibb.co/zHBKDmR1/image.png)
+
+Looks pretty nice. The packaging ended up working pretty well. I'm very pleased with how everything is going, and I want to be submitting by the end of the weekend so I can start ordering all the custom parts. I have also added a prelim BOM to the repo.
+
+### Time Spent 4 Hours (13/06/25)
