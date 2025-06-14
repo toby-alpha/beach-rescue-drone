@@ -483,3 +483,9 @@ The shaft will then be supported on 2 faces, such that it is always in contact w
 Looks pretty nice. The packaging ended up working pretty well. I'm very pleased with how everything is going, and I want to be submitting by the end of the weekend so I can start ordering all the custom parts. I have also added a prelim BOM to the repo.
 
 ### Time Spent 4 Hours (13/06/25)
+
+## Day 12 - Wiring Diagram
+
+I have attached an image in the repo. This isn't final yet, but is unlikley to change. I designed it in Adobe Illustrator.
+
+### Time Spent 1 Hour (14/06/25)
