@@ -3,6 +3,8 @@
 
 # Autonomous Beach Rescue Drone
 
+### 36 Hours.
+
 ## The Idea
 Simply put: Create a prototype for an autonomous drone, that would be able to provide key first-aid rescue across Australia.
 
@@ -470,8 +472,6 @@ This one will hold a steel dowel pin, which will end up supporting the load.
 
 This was Version 1 of the intermidate stage, which was later changed
 
-![image](https://i.ibb.co/PvGWwFBF/image.png)
-
 Ultimatley, they all come together to be able to provide parallel and linear motion from the rotation of the servo.
 
 ![image](https://i.ibb.co/mFDyFBG4/image.png)
@@ -480,7 +480,7 @@ The shaft will then be supported on 2 faces, such that it is always in contact w
 
 ![image](https://i.ibb.co/zHBKDmR1/image.png)
 
-Looks pretty nice. The packaging ended up working pretty well. I'm very pleased with how everything is going, and I want to be submitting by the end of the weekend so I can start ordering all the custom parts. I have also added a prelim BOM to the repo.
+Looks pretty nice. The packaging ended up working pretty well. I'm very pleased with how everything is going, and I want to be submitting by the end of the weekend so I can start ordering all the custom parts.
 
 ### Time Spent 4 Hours (13/06/25)
 
@@ -489,3 +489,38 @@ Looks pretty nice. The packaging ended up working pretty well. I'm very pleased 
 I have attached an image in the repo. This isn't final yet, but is unlikley to change. I designed it in Adobe Illustrator.
 
 ### Time Spent 1 Hour (14/06/25)
+
+## Day 12.5 - Almost ready to ship.
+
+![image](https://i.ibb.co/mVsrmwBK/image.png)
+
+As planned, I added a second bushing to serve as the linkage. In CAD this seems to work pretty well, but I suspect it will need some tweaks when all the parts arrive.
+
+![image](https://i.ibb.co/7dpbhxnY/image.png)
+
+This is it in it's fully extended, compared to fully retracted states.
+
+![image](https://i.ibb.co/DPkXSM9V/image.png)
+
+I also added 8 WS2812 LEDs on the front, to both serve as a flash for the camera, but to also provide a sense of direction to the drone. I think it kinda looks cools and changes the shape up a bit, adding visual interest.
+
+I also changed the front plate shape to mirror this.
+
+![image](https://i.ibb.co/7tHxS7TK/image.png)
+
+
+![image](https://i.ibb.co/35Gc5Gzg/image.png)
+
+I also added 32 LEDs on the arm (16 each side) to provide enhanced visibility, enhancing safety. 
+
+![image](https://i.ibb.co/MyM1jTNC/image.png)
+
+![image](https://i.ibb.co/20Mm7RPm/image.png)
+
+and that's the end product!! I think it looks pretty amazing.
+
+As mentioned earlier (I think) I'll be using Ardupilot to program it, and thus can't do any work on the firmware until all the parts arrive.
+
+Time to Ship!
+
+### Time Spent 5 Hours (14/06/25)
