@@ -19,3 +19,43 @@ Once all the parts arrive, there will be alot of assembly, and wiring to do. I'l
 I'd love to answer any questions you have about this!
 
 The STEP file contains all the CAD, it is uploaded in a ZIP file. Let me know if there are any errors with the conversions.
+
+### PCB
+
+![image](https://camo.githubusercontent.com/d61d87119a4a045e1c5bc0b21e8b37fedc22b42a07c2e720e31cd51e6bda4c95/68747470733a2f2f692e6962622e636f2f53376668483468762f696d6167652e706e67)
+
+### Wiring Diagram
+
+![Wiring Diagram.png](https://github.com/toby-alpha/beach-rescue-drone/blob/main/Wiring%20Diagram.png?raw=true)
+
+### BOM
+
+|Item                   |Cost (AUD)|Cost (USD)|Source    |Link                                                                                                                |
+|-----------------------|----------|----------|----------|--------------------------------------------------------------------------------------------------------------------|
+|2207 Motors x4         |0         |0         |Owned     |N/A                                                                                                                 |
+|Speedybee F405 FC      |0         |0         |Owned     |N/A                                                                                                                 |
+|Speedybee 55A ESC      |0         |0         |Owned     |N/A                                                                                                                 |
+|Reciever Module        |0         |0         |Owned     |N/A                                                                                                                 |
+|                       |          |          |          |                                                                                                                    |
+|Speedybee 55A ESC      |60        |39        |Aliexpress|                                                                                                                    |
+|2207 Motors x4         |57        |37.05     |Aliexpress|https://vi.aliexpress.com/item/1005006356256645.html                                                                |
+|VTX                    |40        |26        |Aliexpress|https://vi.aliexpress.com/item/1005006776832075.html                                                                |
+|FPV Camera             |38        |24.7      |Aliexpress|https://vi.aliexpress.com/item/1005009066346111.html                                                                |
+|Servo and Parts        |40        |26        |Aliexpress|https://vi.aliexpress.com/item/1005008716284050.html                                                                |
+|ESP32 C3               |12        |7.8       |Aliexpress|https://vi.aliexpress.com/item/1005008813495235.html                                                                |
+|7" Props               |8         |5.2       |Aliexpress|https://vi.aliexpress.com/item/1005008250427353.html                                                                |
+|Misc (bolts, standoffs)|25        |16.25     |Aliexpress|Misc.                                                                                                               |
+|                       |          |          |          |                                                                                                                    |
+|Aluminium Arms         |150       |97.5      |Alibaba   |PDF Quote (Provide upon individual request)                                                                         |
+|Carbon Fibre           |120       |78        |Alibaba   |PDF Quote (Provide upon individual request)                                                                         |
+|Middle Block           |78        |50.7      |Alibaba   |PDF Quote (Provide upon individual request)                                                                         |
+|Transmitter PCB        |5         |3.25      |JLCPCB    |PDF Quote (Provide upon individual request)                                                                         |
+|                       |          |          |          |                                                                                                                    |
+|Battery                |119       |77.35     |PhaserFPV |https://phaserfpv.com.au/collections/6s-batteries/products/gaoneng-gnb-lihv-6s-228v-4000mah-70c-lipo-battery-xt60-dg|
+|                       |          |          |          |                                                                                                                   
+|Total                  |752       |488.8     |          |                                                                                                                    |
+|                       |          |          |          |                                                                                                                    |
+|                       |          |Total Over|138.8     |550                                                                                                                 |
+|                       |          |          |215.14    |357.5                                                                                                               |
+
+
