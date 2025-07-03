@@ -1,9 +1,10 @@
 
 
 
-# Autonomous Beach Rescue Drone
+# Autonomous Beach Rescue Drone & Dock
 
-### 36 Hours.
+### 36 Hours - Part 1 (Drone)
+### Ongoing - Part 2 (Dock)
 
 ## The Idea
 Simply put: Create a prototype for an autonomous drone, that would be able to provide key first-aid rescue across Australia.
@@ -524,3 +525,61 @@ As mentioned earlier (I think) I'll be using Ardupilot to program it, and thus c
 Time to Ship!
 
 ### Time Spent 5 Hours (14/06/25)
+
+## Day 13 - Ordering
+
+With much success, I've pretty much ordered all my parts!
+
+Slight problems were discovered. This motors which I originally planned on using were not sutiable, luckily, I was able to find 8 new ones on Taobao for a pretty similar price. I'll now be using 2810 1300KV motors.
+
+### Time Spent 2 Hours (19-21/06/25)
+
+## Day 14 - The Start of Part 2
+
+I've split this project into 2 parts, the drone and dock, each bringing their own special challenges.
+
+ Bridging from the block CAD at the start, I added some more detail to the pivoting doors.
+![image](https://i.ibb.co/nqZs8j4z/image.png)
+
+The chamfer adds some visual depth, while then the holes at the bottom allow for the 25mm tube to fit through, which is then secured using compression.
+
+![image](https://i.ibb.co/SX7fGQHt/image.png)
+
+This 25mm rod will then be supported by an array of bearings.
+
+![image](https://i.ibb.co/h14vtzX2/image.png)
+
+### Time Spent 3 Hours (2/07/25)
+
+## Day 15
+Today was fun, all the Aliexpress components have arrived! Everything looks in order. I'm just waiting on the factories producing custom parts to ship now, and it looks like assembly should start mid next week!!
+
+Today, for the dock, I added in the linear actuators, which will provide the opening motion.
+
+The linear actuators which I'll be purchasing have inbuilt stops, meaning it is possible to just apply 12V in 2 directions in order to achieve the full range of motion. This will end up heavily simplifying control.
+
+![image](https://i.ibb.co/TxSBmVK7/image.png)
+
+This is it fully open.
+
+![image](https://i.ibb.co/KpSpFc0n/image.png)
+
+This is it in the stowed state.
+
+![image](https://i.ibb.co/m5Cw0797/image.png)
+
+There is then a cutout in the main base to house the actuator.
+
+![image](https://i.ibb.co/HTpp5qCK/image.png)
+
+In terms of control, it'll be powered off a 12V lead-acid battery. Then a custom control board will be made based off a SeedStudio Xiao (or similar based on how many pins I need) to interface with both this button panel, and a stack light to provide visual and auditory feedback.
+
+The button panel will allow for manual operation during the prototype phase.
+
+![image](https://i.ibb.co/JWPCzXW6/image.png)
+
+The stack light (which will be similar to the one below) also contains a buzzer, useful to help prevent accidents.
+
+![image](https://i.ibb.co/PsPG65hK/image.png)
+### Time Spent 4 Hours (3/07/25)
+
