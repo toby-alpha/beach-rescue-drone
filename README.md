@@ -1,6 +1,6 @@
 
 
-# Beach Rescue Drone
+# Beach Rescue Drone & Dock
 
 ![image](https://i.ibb.co/20Mm7RPm/image.png)
 
