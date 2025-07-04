@@ -82,3 +82,7 @@ The STEP file contains all the CAD, it is uploaded in a ZIP file. Let me know if
 This dock is the second part of this project, and aims to serve as a succinct housing to complete it, overall completing the design goal set out at the start of the project.
 
 Filament costs are tentative, yet on the lower side. Each piece takes roughly 1kg, and there will be 9. This doesn't account of support, or failures.
+
+### Why I designed this?
+
+After seeing the sucsess I had with the drone, I really wanted to nail in on the concept that I had created. The drone was great, but it needed a place to be stored. Thus, I was inspired to come up with this elegant solution. This makes my prototype become 1 step closer to a viable product, that'd be able to serve in a life saving capacity.
