@@ -68,8 +68,8 @@ The STEP file contains all the CAD, it is uploaded in a ZIP file. Let me know if
 
 |Item                   |Cost (AUD)|Cost (USD)        |Source    |Link                                                                                                                |
 |-----------------------|----------|------------------|----------|--------------------------------------------------------------------------------------------------------------------|
-|White PETG (11kg)      |187       |121.55            |Siddament |https://siddament.com.au/products/white-petg-1-75mm-1kg                                                             |
-|Black TPU (3kg)        |72        |46.8              |Siddament |https://siddament.com.au/products/black-tpu-1-75mm-1kg                                                              |
+|White PETG (14kg)      |238       |154           |Siddament |https://siddament.com.au/products/white-petg-1-75mm-1kg                                                             |
+|Black PETG (3kg)        |48        |31.2             |Siddament |https://siddament.com.au/products/black-tpu-1-75mm-1kg                                                              |
 |Linear Actuators x2    |160       |104               |Aliexpress |https://vi.aliexpress.com/item/1005006477151440.html                                                                |
 |Breaker                |9         |5.85              |Aliexpress |thttps://vi.aliexpress.com/item/1005006273365319.html                                                               |
 |Control Board          |7         |4.55              |Aliexpress |https://vi.aliexpress.com/item/1005004227086403.html                                                                |
