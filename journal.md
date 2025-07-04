@@ -4,7 +4,7 @@
 # Autonomous Beach Rescue Drone & Dock
 
 ### 36 Hours - Part 1 (Drone)
-### Ongoing - Part 2 (Dock)
+### 17 Hours - Part 2 (Dock)
 
 ## The Idea
 Simply put: Create a prototype for an autonomous drone, that would be able to provide key first-aid rescue across Australia.
@@ -582,4 +582,32 @@ The stack light (which will be similar to the one below) also contains a buzzer,
 
 ![image](https://i.ibb.co/PsPG65hK/image.png)
 ### Time Spent 4 Hours (3/07/25)
+
+## Day 16
+
+Today I was going to start with designing the PCB, though, I pretty quickly found the exact thing that I needed on Aliexpress. This will end up saving me time, allowing me to focus on other areas of development, and delivery heavy cost cuts.
+
+This will also negate the use of a microcontroller, increasing reliability. Unfortunately, this also means I will not be pursing the stack light avenue.
+
+![image](https://i.ibb.co/ynh5yKJR/image.png)
+
+With this, I added colour to the model. The white will be printed from PETG (I purchase this locally for 10USD per kg), and then the black landing pad from TPU, for extra wear resistance as the drone comes 'crashing' down into it (once again, 10USD per kg).
+
+![image](https://i.ibb.co/r26jTymr/image.png)
+
+![image](https://i.ibb.co/L78W8bH/image.png)
+
+I also added the control buttons on, this will also serve as a door which can be opened to access the electronics inside.
+
+![image](https://i.ibb.co/9mgjnyfy/image.png)
+
+Internally, there is also spacing of which the wires will run through.
+
+![image](https://i.ibb.co/F4qFscSV/image.png)
+
+With this, the design of the dock is done.
+
+I finalised the readme, and have now submitted this second part of the project! Apologies if any of the images struggle to load.
+
+### Time Spent 6 Hours (4/07/25)
 
