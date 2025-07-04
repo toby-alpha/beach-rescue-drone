@@ -54,8 +54,9 @@ The STEP file contains all the CAD, it is uploaded in a ZIP file. Let me know if
 |Battery                |119       |77.35     |PhaserFPV |https://phaserfpv.com.au/collections/6s-batteries/products/gaoneng-gnb-lihv-6s-228v-4000mah-70c-lipo-battery-xt60-dg|
 |                       |          |          |          |                                                                                                                   
 |Total                  |752       |488.8     |          |                                                                                                                    |
-|                       |          |          |          |                                                                                                                    |
-|                       |          |Total Over|138.8     |550                                                                                                                 |
-|                       |          |          |215.14    |357.5                                                                                                               |
+
+## Part 2 
+
+
 
 
