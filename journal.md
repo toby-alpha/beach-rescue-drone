@@ -611,3 +611,14 @@ I finalised the readme, and have now submitted this second part of the project! 
 
 ### Time Spent 6 Hours (4/07/25)
 
+## Drone Parts Update!
+
+All components have arrived! The carbon fibre looks incredible. Yet, I'm currently messaging the CNC supplier, as they are having a slight problem with following their original timeline to ship the product.
+
+![A812F1EE-9033-4115-BD28-8F48BBA3D3E6_1_105_c](https://github.com/user-attachments/assets/a27c97a7-556d-4531-85f4-90c1e6ebdf5c)
+
+It's just anodising left, and hopefully it'll ship this week. Looking forward to starting to build this!!
+
+### Time Spent 1 Horu (17/07/25)
+
+
